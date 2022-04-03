@@ -1,1 +1,1 @@
-# This is a class work assignment of a lona analysis.
+# This is a class work assignment of a loan analysis.
